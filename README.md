@@ -1,99 +1,133 @@
 <div align="center">
 
-# Marlin Spike
+# >_ Marlin Spike
 
-### Full Stack Developer • Mobile Developer • Security Enthusiast
+### Full Stack Developer • Mobile Developer • Cybersecurity Enthusiast
 
-Building scalable applications, secure systems and digital products.
+Building secure, scalable and user-focused digital products.
 
 `Next.js` `Flutter` `TypeScript` `Firebase` `Supabase` `Redis`
 
+`Kali Linux` `Burp Suite` `Security+` `Hack The Box`
+
 </div>
 
 ---
 
-## About
+## ~/about
 
-I develop modern web and mobile applications with a focus on
-performance, scalability, automation and security.
+```text
+> whoami
 
-Working across frontend, backend, cloud infrastructure and mobile ecosystems.
+Developer focused on building modern applications
+with secure architecture and clean user experiences.
+
+Currently exploring:
+
+[+] Full Stack Development
+[+] Mobile Engineering
+[+] Cloud Systems
+[+] Cybersecurity
+```
 
 ---
 
-## Core Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flutter,dart,nodejs,firebase,supabase,redis,postgres,docker,tailwind,vercel,github,linux,apple" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flutter,dart,nodejs,firebase,supabase,redis,postgres,docker,tailwind,vercel,github,linux" />
 
 </div>
 
 ---
 
-## Frontend Development
+## </> Development
 
-`Next.js App Router`  
-`React`  
-`TypeScript`  
-`Tailwind CSS`  
-`Responsive Interfaces`  
-`Modern UI Systems`  
+### Frontend
 
----
+`Next.js App Router`
+`React`
+`TypeScript`
+`Tailwind CSS`
+`Responsive Design`
 
-## Mobile Development
+### Mobile
 
-`Flutter`  
-`Dart`  
-`iOS Development`  
-`Firebase Cloud Messaging`  
-`Realtime Applications`  
+`Flutter`
+`Dart`
+`iOS Development`
+`Realtime Applications`
 `Push Notifications`
-
 ---
 
-## Backend & Infrastructure
+### Backend & Cloud
 
-`Node.js`  
-`Serverless Architecture`  
-`REST API Development`  
-`Middleware Systems`  
+`Node.js`
+`API Development`
+`Middleware Systems`
+`Serverless Functions`
 `Database Design`
 
 `Firebase`
 `Supabase`
 `PostgreSQL`
-`Redis Cache`
+`Redis`
 
 ---
 
-## Security & Networking
+## >_ Cybersecurity
 
-Interested in modern cybersecurity and secure application design.
+Learning offensive and defensive security through
+hands-on labs, security research and real-world scenarios.
 
-`Authentication Systems`  
-`Role Based Access Control`  
-`JWT / Session Management`  
-`API Security`  
-`Rate Limiting`  
-`DDoS Protection Concepts`  
-`Security Headers`  
-`Network Security Fundamentals`
+### Focus Areas
 
----
+`Web Application Security`
+`OWASP Top 10`
+`API Security`
+`Authentication Systems`
+`Access Control`
 
-## Automation & Tools
-
-`GitHub Actions`  
-`CI/CD Pipelines`  
-`Workflow Automation`  
-`Vercel Deployment`  
-`Cloud Functions`
+`Network Security`
+`Linux Security`
+`Threat Analysis`
+`Security Hardening`
 
 ---
 
-## GitHub Activity
+## 🛠 Security Toolkit
+
+`Kali Linux`
+`Burp Suite`
+`Nmap`
+`Wireshark`
+`Metasploit`
+
+---
+
+## ~/security-journey
+
+```text
+$ cat progress.txt
+
+
+[+] CompTIA Security+
+[+] Hack The Box Labs
+[+] TryHackMe Rooms
+
+> Learning path
+
+[+] Network Security
+[+] Vulnerability Analysis
+[+] Web Exploitation
+[+] Linux Internals
+[+] Incident Response
+[+] Secure Development
+```
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -107,8 +141,27 @@ Interested in modern cybersecurity and secure application design.
 
 ---
 
+## >_ mindset
+
+```text
+while (learning) {
+
+    build();
+    break_things();
+    understand();
+    improve();
+
+}
+```
+
+---
+
 <div align="center">
 
-Clean Code • Secure Systems • Better User Experience
+### `secure systems • clean code • better experiences`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=marlinss&style=flat-square" />
 
 </div>
