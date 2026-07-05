@@ -1,75 +1,114 @@
 <div align="center">
 
-# 👋 Hi, I'm Mehmet
+# Marlin Spike
 
-### Building modern apps, web platforms and digital products
+### Full Stack Developer • Mobile Developer • Security Enthusiast
 
-Flutter • Next.js • TypeScript • Firebase • UI Engineering
+Building scalable applications, secure systems and digital products.
 
-<img src="https://komarev.com/ghpvc/?username=marlinss&style=flat-square" />
+`Next.js` `Flutter` `TypeScript` `Firebase` `Supabase` `Redis`
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I create fast, clean and user-focused digital products.
+I develop modern web and mobile applications with a focus on
+performance, scalability, automation and security.
 
-- 📱 Building mobile applications with **Flutter**
-- 🌐 Developing modern web platforms with **Next.js**
-- 🔥 Working with Firebase ecosystems
-- 🎨 Focused on minimal UI / UX experiences
-- ⚡ Automating workflows and improving systems
+Working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 ---
 
-## 🛠 Tech Stack
+## Core Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,js,tailwind,firebase,vercel,nodejs,github,figma" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flutter,dart,nodejs,firebase,supabase,redis,postgres,docker,tailwind,vercel,github,linux,apple" />
+
 </div>
 
 ---
 
-## ✨ Featured Projects
+## Frontend Development
 
-### 💬 Vera
-Private social messaging platform.
-
-`Flutter` `Firebase` `Firestore` `Cloud Functions` `FCM`
-
-### 🏠 HostDesk
-Apartment & reservation management system.
-
-`Next.js` `TypeScript` `Firebase` `Tailwind CSS` `Vercel`
-
-### 🥗 Dietitian Platform
-Modern nutrition management system.
-
-`Next.js` `Tailwind` `Admin Dashboard` `PDF Generator`
+`Next.js App Router`  
+`React`  
+`TypeScript`  
+`Tailwind CSS`  
+`Responsive Interfaces`  
+`Modern UI Systems`  
 
 ---
 
-## 📊 GitHub Analytics
+## Mobile Development
+
+`Flutter`  
+`Dart`  
+`iOS Development`  
+`Firebase Cloud Messaging`  
+`Realtime Applications`  
+`Push Notifications`
+
+---
+
+## Backend & Infrastructure
+
+`Node.js`  
+`Serverless Architecture`  
+`REST API Development`  
+`Middleware Systems`  
+`Database Design`
+
+`Firebase`
+`Supabase`
+`PostgreSQL`
+`Redis Cache`
+
+---
+
+## Security & Networking
+
+Interested in modern cybersecurity and secure application design.
+
+`Authentication Systems`  
+`Role Based Access Control`  
+`JWT / Session Management`  
+`API Security`  
+`Rate Limiting`  
+`DDoS Protection Concepts`  
+`Security Headers`  
+`Network Security Fundamentals`
+
+---
+
+## Automation & Tools
+
+`GitHub Actions`  
+`CI/CD Pipelines`  
+`Workflow Automation`  
+`Vercel Deployment`  
+`Cloud Functions`
+
+---
+
+## GitHub Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marlinss&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinss&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=marlinss&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinss&layout=compact&theme=github_dark&hide_border=true" />
+
 </div>
 
 ---
 
-## 🔥 Contribution Activity
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=marlinss&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
-### Building things that feel simple ✨
+Clean Code • Secure Systems • Better User Experience
 
 </div>
