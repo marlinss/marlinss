@@ -2,11 +2,20 @@
 
 # Marlin Spike
 
-### Full Stack Developer • Mobile Developer • Security Enthusiast
+**Full Stack Developer · Mobile Developer · Security Enthusiast**
 
 Building scalable applications, secure systems and digital products.
 
-`Next.js` `Flutter` `TypeScript` `Firebase` `Supabase` `Redis`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=marlinss&style=flat-square&color=blue" alt="profile views" />
 
 </div>
 
@@ -15,9 +24,8 @@ Building scalable applications, secure systems and digital products.
 ## About
 
 I develop modern web and mobile applications with a focus on
-performance, scalability, automation and security.
-
-Working across frontend, backend, cloud infrastructure and mobile ecosystems.
+performance, scalability, automation and security —
+working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 ---
 
@@ -31,40 +39,41 @@ Working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 ---
 
-## Frontend Development
+## What I Build
 
-`Next.js App Router`  
-`React`  
-`TypeScript`  
-`Tailwind CSS`  
-`Responsive Interfaces`  
-`Modern UI Systems`  
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+### Frontend
+- Next.js App Router
+- React · TypeScript
+- Tailwind CSS
+- Modern UI systems & responsive interfaces
 
-## Mobile Development
+### Mobile
+- Flutter · Dart
+- iOS development
+- Firebase Cloud Messaging
+- Realtime apps & push notifications
 
-`Flutter`  
-`Dart`  
-`iOS Development`  
-`Firebase Cloud Messaging`  
-`Realtime Applications`  
-`Push Notifications`
+</td>
+<td valign="top" width="50%">
 
----
+### Backend & Infra
+- Node.js · Serverless architecture
+- REST API development & middleware
+- Database design
+- Firebase · Supabase · PostgreSQL · Redis
 
-## Backend & Infrastructure
+### Automation
+- GitHub Actions · CI/CD pipelines
+- Workflow automation
+- Vercel deployment · Cloud Functions
 
-`Node.js`  
-`Serverless Architecture`  
-`REST API Development`  
-`Middleware Systems`  
-`Database Design`
-
-`Firebase`
-`Supabase`
-`PostgreSQL`
-`Redis Cache`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,24 +81,8 @@ Working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 Interested in modern cybersecurity and secure application design.
 
-`Authentication Systems`  
-`Role Based Access Control`  
-`JWT / Session Management`  
-`API Security`  
-`Rate Limiting`  
-`DDoS Protection Concepts`  
-`Security Headers`  
-`Network Security Fundamentals`
-
----
-
-## Automation & Tools
-
-`GitHub Actions`  
-`CI/CD Pipelines`  
-`Workflow Automation`  
-`Vercel Deployment`  
-`Cloud Functions`
+`Authentication Systems` · `Role Based Access Control` · `JWT / Session Management`
+`API Security` · `Rate Limiting` · `DDoS Protection` · `Security Headers` · `Network Fundamentals`
 
 ---
 
@@ -97,11 +90,12 @@ Interested in modern cybersecurity and secure application design.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marlinss&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marlinss&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinss&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinss&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=marlinss&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -109,6 +103,6 @@ Interested in modern cybersecurity and secure application design.
 
 <div align="center">
 
-Clean Code • Secure Systems • Better User Experience
+**Clean Code · Secure Systems · Better User Experience**
 
 </div>
