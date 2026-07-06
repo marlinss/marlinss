@@ -13,6 +13,7 @@ Building scalable applications, secure systems and digital products.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=marlinss&style=flat-square&color=blue" alt="profile views" />
@@ -33,7 +34,7 @@ working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flutter,dart,nodejs,firebase,supabase,redis,postgres,docker,tailwind,vercel,github,linux,apple" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,flutter,dart,nodejs,firebase,supabase,redis,postgres,docker,tailwind,vercel,github,linux,kali,apple" />
 
 </div>
 
@@ -79,25 +80,34 @@ working across frontend, backend, cloud infrastructure and mobile ecosystems.
 
 ## Security & Networking
 
-Interested in modern cybersecurity and secure application design.
+Interested in offensive security, secure application design and network defense.
 
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+</p>
+
+**Tooling (Kali Linux):**
+`Nmap` · `Metasploit` · `Burp Suite` · `Wireshark` · `sqlmap`
+`Hydra` · `John the Ripper` · `Hashcat` · `Aircrack-ng` · `Nikto` · `Gobuster`
+
+**Practicing on:**
+
+<p>
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+</p>
+
+**Concepts:**
 `Authentication Systems` · `Role Based Access Control` · `JWT / Session Management`
-`API Security` · `Rate Limiting` · `DDoS Protection` · `Security Headers` · `Network Fundamentals`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marlinss&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinss&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=marlinss&theme=github-dark&hide_border=true" />
-
-</div>
+`API Security` · `Rate Limiting` · `DDoS Protection` · `Security Headers`
+`Web Exploitation` · `Network Pentesting` · `Privilege Escalation` · `OSINT`
 
 ---
 
